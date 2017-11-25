@@ -37,12 +37,12 @@ disqus_shortname:   default
 analytics-id:       "default"
 twitter:            JimWoolfenden
 facebook:           james.woolfenden
-instagram:          default
+instagram:          jimwoolfenden
 github:             JamesWoolfenden
 
 # personal
 location:           Reading, UK
-phone:
+#phone:
 email:              james@redwolf.io
 
 # Gems
