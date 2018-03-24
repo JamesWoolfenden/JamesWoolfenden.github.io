@@ -6,6 +6,11 @@
  
  `cinst ruby`
  
+ Then get bundle:
+  `gem install bundler`
+  
+ And then in this repo:
+  
 `bundle install`
 
  To test locally
