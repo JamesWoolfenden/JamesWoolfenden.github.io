@@ -1,5 +1,11 @@
  To Set-up
 
+ install ruby through your package manager:
+ 
+ `apt-get install ruby`
+ 
+ `cinst ruby`
+ 
 `bundle install`
 
  To test locally
