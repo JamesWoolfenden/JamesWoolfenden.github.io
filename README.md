@@ -20,9 +20,15 @@ and consultancies, not just in the UK but also Overseas; these have included:
 | [House of Fraser](https://www.houseoffraser.co.uk/)        | [De La Rue](https://www.delarue.com/)          | [Lloyds Bank](https://www.lloydsbank.com/)                |
 | [Close Asset Management](https://www.closebrothersam.com/) | [MAN Investments](https://www.man.com/)        | [Credit-Suisse](https://www.credit-suisse.com/us/en.html) |
 
+### Examples
+You can find public examples of my work in the repos on [Github](https://github.com/JamesWoolfenden/packer-by-example) , [Travis](https://travis-ci.com/JamesWoolfenden/terraform-aws-codebuild), the [Terraform Registry](https://registry.terraform.io/search?q=jameswoolfenden&verified=false).
+
 ### [Skills](./skills/skills.md)
 
 ### [How](./method/method.md)
 
+### Contact
+Email is Fullname @ gmail.com.
+I am on Keybase: jameswoolfenden
 
 ----------------
