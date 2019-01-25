@@ -12,9 +12,8 @@ I'm currently run a Team at Slalom in London.
 
 I am and have worked with many of the UKs leading Engineers at technology firms
 and consultancies, not just in the UK but also Overseas; these have included:
-
-| [Slalom](https://slalom.com)                               | [McKinsey](https://www.mckinsey.com/uk)        | [Contino](https://www.contino.io/)                        |
 | ---------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------- |
+| [Slalom](https://slalom.com)                               | [McKinsey](https://www.mckinsey.com/uk)        | [Contino](https://www.contino.io/)                        |
 | [ASOS](https://www.asos.com/)                              | [Equal Experts](https://www.equalexperts.com/) | [AMIDO](https://amido.com/)                               |
 | [AEVI](https://www.aevi.com/)                              | [Microsoft](https://www.microsoft.com/en-gb)   | [Criterion](http://criteriongames.com/)                   |
 | [House of Fraser](https://www.houseoffraser.co.uk/)        | [De La Rue](https://www.delarue.com/)          | [Lloyds Bank](https://www.lloydsbank.com/)                |
