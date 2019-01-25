@@ -20,7 +20,7 @@ and consultancies, not just in the UK but also Overseas; these have included:
 | [House of Fraser](https://www.houseoffraser.co.uk/)        | [De La Rue](https://www.delarue.com/)          | [Lloyds Bank](https://www.lloydsbank.com/)                |
 | [Close Asset Management](https://www.closebrothersam.com/) | [MAN Investments](https://www.man.com/)        | [Credit-Suisse](https://www.credit-suisse.com/us/en.html) |
 
-### [How](.\method\method.md)
+### [How](./method/method.md)
 
 
 ----------------
