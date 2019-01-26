@@ -11,6 +11,6 @@
   (IaC).
 - Supporting implementation of Server and Serverless applications on
   Cloudfront, ApiGateway, Lambda and SNS.
-- Implementations of IAM, Cloudwatch and Cloudtrail.
+- Implementations of IAM, CloudWatch and CloudTrail.
 - Build and deployment process, hosted in TeamCity using PowerShell and
   CodeDeploy.

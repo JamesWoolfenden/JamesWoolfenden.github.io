@@ -2,19 +2,19 @@ Who
 ===
 
 I am a DevOps Architect and Lead Agile Software Engineer with over 20 years of
-full lifecycle experience.
+full life-cycle experience.
 
 Where
 -----
 
-I live on the North side of the Thames in small town called Caversham. Although
+I live on the North side of the Thames in a small town called Caversham. Although
 I work mostly in Central London.
 
 What
 ----
 
 At present i'm a specialist in enhancing delivery outcomes for clients. I use
-and deploy the best technology practices i can find, in software build,
+and deploy the best technology practices iI can find, in software build,
 Continuous integration, Continuous deployment, Infrastructure as Code (IAC) and
 the Public Cloud.
 
@@ -24,21 +24,24 @@ I am and have worked with many of the UKs leading Engineers at technology firms
 and consultancies, not just in the UK but also Overseas; these have included:
 
 | [Slalom](https://slalom.com)                               | [McKinsey](https://www.mckinsey.com/uk)        | [Contino](https://www.contino.io/)                        |
-|------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------------|
+| ---------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------- |
 | [ASOS](https://www.asos.com/)                              | [Equal Experts](https://www.equalexperts.com/) | [AMIDO](https://amido.com/)                               |
 | [AEVI](https://www.aevi.com/)                              | [Microsoft](https://www.microsoft.com/en-gb)   | [Criterion](http://criteriongames.com/)                   |
 | [House of Fraser](https://www.houseoffraser.co.uk/)        | [De La Rue](https://www.delarue.com/)          | [Lloyds Bank](https://www.lloydsbank.com/)                |
-| [Close Asset Management](https://www.closebrothersam.com/) | [MAN Investments](https://www.man.com/)        | [Credit-Suisse](https://www.credit-suisse.com/us/en.html) |
-|                                                            |                                                |                                                           |
+| [Close Asset Management](https://www.closebrothersam.com/) | [MAN Investments](https://www.man.com/)        | [Credit-Suisse](https://www.credit-suisse.com/us/en.html)
 
-### My work
-
-You can find public examples of my work in the repos on
+You can find public examples of my work in the repository on
 [Github](https://github.com/JamesWoolfenden/packer-by-example) ,
 [Travis](https://travis-ci.com/JamesWoolfenden/terraform-aws-codebuild), the
 [Terraform Registry](https://registry.terraform.io/search?q=jameswoolfenden&verified=false).
 
-I used to do something quite different, I was involved thru my work at Plymouth Matine Laboratory with a NASA project called [SeasWifs](https://oceancolor.gsfc.nasa.gov/SeaWiFS/):
+### Job Info
+
+| ------------------------- | --------------------------- | --------------------- |
+| [Slalom](./jobs/slalom.md)| [Contino](./jobs/contino.md)| [ASOS](./jobs/asos.md)|
+|   |   |
+
+I used to do something quite different, I was involved thru my work at Plymouth Marine Laboratory with a NASA project called [SeasWifs](https://oceancolor.gsfc.nasa.gov/SeaWiFS/):
 
 - [NASA-report](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19990009531_1999000201.pdf)
 - [NASA-report](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20020044096.pdf)
@@ -48,7 +51,7 @@ I used to do something quite different, I was involved thru my work at Plymouth 
 
 ### [Education](./education/education.md)
 
-### How 
+### How
 
 ### Contact
 
