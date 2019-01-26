@@ -36,14 +36,23 @@ and consultancies, not just in the UK but also Overseas; these have included:
 You can find public examples of my work in the repos on
 [Github](https://github.com/JamesWoolfenden/packer-by-example) ,
 [Travis](https://travis-ci.com/JamesWoolfenden/terraform-aws-codebuild), the
-[Terraform
-Registry](https://registry.terraform.io/search?q=jameswoolfenden&verified=false).
+[Terraform Registry](https://registry.terraform.io/search?q=jameswoolfenden&verified=false).
+
+I used to do something quite different, I was involved thru my work at Plymouth Matine Laboratory with a NASA project called [SeasWifs](https://oceancolor.gsfc.nasa.gov/SeaWiFS/):
+
+- [NASA-report](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19990009531_1999000201.pdf)
+- [NASA-report](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20020044096.pdf)
+- [Deep Seas research Scientific Paper](https://www.sciencedirect.com/science/article/pii/S0967064501000327?via%3Dihub)
 
 ### [Skills](./skills/skills.md)
+
+### [Education](./education/education.md)
 
 ### How 
 
 ### Contact
 
-Email is Fullname @ gmail.com. I am on Keybase: jameswoolfenden, also
-@JimWoolfenden.
+Email is FistName.LastName @ gmail.com. I am on Keybase: jameswoolfenden, also
+@JimWoolfenden on the twitters.
+
+I can also be found answering questions on [StackOverflow](https://stackexchange.com/users/290648/james-woolfenden) and [Quora](https://www.quora.com/profile/James-Woolfenden-1)
