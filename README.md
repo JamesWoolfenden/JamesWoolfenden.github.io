@@ -14,14 +14,14 @@ What
 ----
 
 At present i'm a specialist in enhancing delivery outcomes for clients. I use
-and deploy the best technology practices iI can find, in software build,
+and deploy the best technology practices I can find, in software build,
 Continuous integration, Continuous deployment, Infrastructure as Code (IAC) and
 the Public Cloud.
 
 I currently run a Team, at Slalom in London.
 
 I am and have worked with many of the UKs leading Engineers at technology firms
-and consultancies, not just in the UK but also Overseas; these have included:
+and consultancies, not just in the UK but also Overseas, these have included:
 
 | [Slalom](https://slalom.com)                               | [McKinsey](https://www.mckinsey.com/uk)        | [Contino](https://www.contino.io/)                        |
 | ---------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------- |
