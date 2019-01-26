@@ -4,7 +4,7 @@
 
 I have worked many and am proficient in some, these include: Golang, PowerShell, Terraform/HCL, Python, MSBuild, C\#, Ant, NAnt, WMI and Vbs scripting, Bash scripting, SQL & C\#.
 
-## RDBMS
+## Databases
 
 I've used all flavours of SQL and NoSQL DBs including; Azure SQL. AWS RDS and Microsoft SQL Server, Apache Cassandra and Oracle. Lately is also been the streaming technology Kafka and MongoDB.
 
@@ -12,7 +12,7 @@ I've used all flavours of SQL and NoSQL DBs including; Azure SQL. AWS RDS and Mi
 
 At one time or another I have developed many different build systems including for C\#, Scala, Java and Nodejs.
 For CI I have extensive experience with TeamCity, but also Hudson, TFS, Circle, Jenkins, Bamboo Maven2, JBoss, and Continuum and CruiseControl .Net.
-Lately its AWS Codebuild or Travis.
+Lately its AWS CodeBuild or Travis.
 
 ## Public Cloud
 

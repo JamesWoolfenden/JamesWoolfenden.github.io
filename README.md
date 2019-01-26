@@ -37,11 +37,16 @@ You can find public examples of my work in the repository on
 
 ### Job Info
 
-| ------------------------- | --------------------------- | --------------------- |
-| [Slalom](./jobs/slalom.md)| [Contino](./jobs/contino.md)| [ASOS](./jobs/asos.md)|
-|   |   |
+I currently do this:
 
-I used to do something quite different, I was involved thru my work at Plymouth Marine Laboratory with a NASA project called [SeasWifs](https://oceancolor.gsfc.nasa.gov/SeaWiFS/):
+- [Slalom](./jobs/slalom.md)
+
+Previously:
+
+- [Contino](./jobs/contino.md)
+- [ASOS](./jobs/asos.md)
+
+I used to do something quite different, I was involved through my work at Plymouth Marine Laboratory with a NASA project called [SeasWifs](https://oceancolor.gsfc.nasa.gov/SeaWiFS/):
 
 - [NASA-report](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19990009531_1999000201.pdf)
 - [NASA-report](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20020044096.pdf)
